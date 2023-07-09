@@ -42,5 +42,4 @@ To install the game, follow these steps:
 * Open the project in a C++ IDE.
 * Build and run the project.
 
-License
 The game is licensed under the MIT License.
